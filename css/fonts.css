@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'montserrat400';
+    src: url(../fonts/montserrat400.woff2) format('woff2');
+    src: url(../fonts/montserrat400.woff) format('woff');
+    src: url(../fonts/montserrat400.ttf) format('truetype');
+    font-weight: 400px;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'montserrat500';
+    src: url(../fonts/montserrat500.woff2) format('woff2');
+    src: url(../fonts/montserrat500.woff) format('woff');
+    src: url(../fonts/montserrat500.ttf) format('truetype');
+    font-weight: 500px;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'montserrat600';
+    src: url(../fonts/montserrat600.woff2) format('woff2');
+    src: url(../fonts/montserrat600.woff) format('woff');
+    src: url(../fonts/montserrat600.ttf) format('truetype');
+    font-weight: 600px;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'montserrat700';
+    src: url(../fonts/montserrat700.woff2) format('woff2');
+    src: url(../fonts/montserrat700.woff) format('woff');
+    src: url(../fonts/montserrat700.ttf) format('truetype');
+    font-weight: 700px;
+    font-style: normal;
+    font-display: swap;
+}

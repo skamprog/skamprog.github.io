@@ -1,0 +1,83 @@
+.mimi {
+    width: 112px;
+    height: 17px;
+    fill: #00B7FF;
+}
+.smart {
+    width: 112px;
+    height: 17px;
+    fill: #444444;
+}
+.phone {
+    width: 18px;
+    height: 18px;
+    fill: #444444;
+}
+.arrow2 {
+    width: 66px;
+    height: 24px;
+    fill: #FFFFFF;
+}
+.five1 {
+    position: absolute;
+    bottom: 62px;
+    right: 0px;
+    width: 371px;
+    height: 201px;
+    fill: rgba(33, 33, 33, 0.10);
+}
+.five2 {
+    position: absolute;
+    bottom: 116px;
+    right: 0px;
+    width: 371px;
+    height: 201px;
+    fill: #2A2A2A;
+}
+.years1 {
+    position: absolute;
+    top: 160px;
+    right: 5px;
+    width: 266px;
+    height: 179px;
+    fill: rgba(33, 33, 33, 0.10);
+}
+.years2 {
+    position: absolute;
+    bottom: 54px;
+    right: 5px;
+    width: 266px;
+    height: 179px;
+    fill: #2A2A2A;
+}
+.circle1 {
+    position: absolute;
+    top: -85px;
+    right: -50px;
+    width: 480px;
+    height: 480px;
+    flex-shrink: 0;
+}
+.cir {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    flex-shrink: 0;
+}
+.circle2 {
+    top: 155px;
+    left: -54px;
+}
+.circle3 {
+    top: -7px;
+    right: 195px;
+}
+.circle4 {
+    bottom: 29px;
+    right: -23px;
+}
+.play {
+    width: 24px;
+    height: 24px;
+    fill: #00B7FF;
+}
